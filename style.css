@@ -48,7 +48,6 @@ main {
     border-radius: 1rem;
     color: var(--clr-soft-blue);
     font-weight: var(--fw-300);
-    box-shadow: 5px 5px 5px var(--clr-soft-blue);
 }
 
 .banner {
